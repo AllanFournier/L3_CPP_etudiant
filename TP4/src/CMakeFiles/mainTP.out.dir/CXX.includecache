@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/etudiants/afourni1/Documents/C++/Git/L3_CPP_etudiant/TP4/src/Couleur.h
+
+/etudiants/afourni1/Documents/C++/Git/L3_CPP_etudiant/TP4/src/FigureGeometrique.cpp
+FigureGeometrique.h
+/etudiants/afourni1/Documents/C++/Git/L3_CPP_etudiant/TP4/src/FigureGeometrique.h
+iostream
+-
+
+/etudiants/afourni1/Documents/C++/Git/L3_CPP_etudiant/TP4/src/FigureGeometrique.h
+Couleur.h
+/etudiants/afourni1/Documents/C++/Git/L3_CPP_etudiant/TP4/src/Couleur.h
+

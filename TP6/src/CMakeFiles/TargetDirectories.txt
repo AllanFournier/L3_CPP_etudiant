@@ -1,0 +1,2 @@
+/etudiants/afourni1/Documents/C++/TP6/src/CMakeFiles/main_bibliotheque.out.dir
+/etudiants/afourni1/Documents/C++/TP6/src/CMakeFiles/main_test.out.dir

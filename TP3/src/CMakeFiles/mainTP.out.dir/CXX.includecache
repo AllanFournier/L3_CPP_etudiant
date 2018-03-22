@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/etudiants/afourni1/Documents/C++/Git/L3_CPP_etudiant/TP3/src/Client.h
+string
+-
+
+/etudiants/afourni1/Documents/C++/Git/L3_CPP_etudiant/TP3/src/Location.h
+
+/etudiants/afourni1/Documents/C++/Git/L3_CPP_etudiant/TP3/src/Magasin.cpp
+Magasin.h
+/etudiants/afourni1/Documents/C++/Git/L3_CPP_etudiant/TP3/src/Magasin.h
+iostream
+-
+
+/etudiants/afourni1/Documents/C++/Git/L3_CPP_etudiant/TP3/src/Magasin.h
+vector
+-
+string
+-
+Client.h
+/etudiants/afourni1/Documents/C++/Git/L3_CPP_etudiant/TP3/src/Client.h
+Produit.h
+/etudiants/afourni1/Documents/C++/Git/L3_CPP_etudiant/TP3/src/Produit.h
+Location.h
+/etudiants/afourni1/Documents/C++/Git/L3_CPP_etudiant/TP3/src/Location.h
+
+/etudiants/afourni1/Documents/C++/Git/L3_CPP_etudiant/TP3/src/Produit.h
+string
+-
+

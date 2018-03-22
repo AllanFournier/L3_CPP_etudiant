@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/etudiants/afourni1/Documents/C++/Git/L3_CPP_etudiant/TP4/src/main_test.cpp
+CppUTest/CommandLineTestRunner.h
+-
+

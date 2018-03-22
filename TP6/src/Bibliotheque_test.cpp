@@ -1,4 +1,4 @@
-/*
+
 #include <CppUTest/CommandLineTestRunner.h>
 
 #include "Bibliotheque.hpp"
@@ -42,7 +42,7 @@ TEST(GroupBibliotheque, Bibliotheque_trierParAnnee_1)
     CHECK(b[1] == Livre("t2","a2",37));
     CHECK(b[2] == Livre("t0","a0",42));
 }
-
+/*
 TEST(GroupBibliotheque, Bibliotheque_fichier_1 ) 
 {
     Bibliotheque b1;

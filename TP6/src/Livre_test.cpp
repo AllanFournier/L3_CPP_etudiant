@@ -1,4 +1,4 @@
-/*
+
 #include <CppUTest/CommandLineTestRunner.h>
 
 #include "Livre.hpp"
@@ -146,6 +146,4 @@ TEST(GroupLivre, Livre_sortie_1)
 	s << livre;
 	CHECK_EQUAL(std::string("titre;auteur;42"), s.str());
 }
-
-*/
 
